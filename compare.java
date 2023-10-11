@@ -1,4 +1,4 @@
-class compare {
+class Compare {
    /* 
    Goal
    1.public static void main (String[] args) {}  => what is meaning there?
