@@ -3,7 +3,7 @@ class Compare {
    Goal
    1.public static void main (String[] args) {}  => what is meaning there?
    Answer
-   public is access specifier
+   public is access modifier
    static is keyword that is when associated with a method, making it a class-related method.
    void is return type
    main is method name
@@ -12,9 +12,13 @@ class Compare {
    2.Difference == , === , .equals()
    Answer 
    //new object in Java Heap
+   
    //double quote in  Java String Pool
+
+   //stack vs heap
+   => 
    ------------------------------------------------------------------------------
-   3.javac or java ?
+   3.javac or java **JDK**
    Answer 
    javac is the compiler  => javac filenmame
    java is loader/interpreter => java main-class for run
@@ -31,6 +35,10 @@ class Compare {
    8.inherite or extends
    ------------------------------------------------------------------------------
    9.OOP concept
+   ------------------------------------------------------------------------------
+   10.Data Structure
+   ------------------------------------------------------------------------------
+   11.Design Pattern and SOLID concept
    ------------------------------------------------------------------------------
    */ 
 
